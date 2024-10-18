@@ -1,6 +1,7 @@
 <?php
 require "./model/mode_inbox.php";
 
+
 // Configuration
 $emailsPerPage = 10; // Set the number of emails per page
 
