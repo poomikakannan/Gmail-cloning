@@ -1,0 +1,16 @@
+
+
+
+.container {
+    background-color: blue;
+    width: 50%;
+    position: relative; 
+}
+
+.staticprofile{
+    width: 10px;
+}
+
+.popup-avatar{
+    width: 200px;
+}
